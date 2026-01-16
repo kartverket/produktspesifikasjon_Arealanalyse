@@ -1,6 +1,6 @@
 ---
 title: "Nasjonalt grunnkart for arealanalyse (Testversjon 2)"
-updated: "2026-01-16"
+updated: "2026-01-15"
 organization: "Statistisk sentralbyrå"
 logo: "https://register.geonorge.no/data/organizations/971526920_SSB_liten.png"
 ---
