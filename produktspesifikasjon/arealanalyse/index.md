@@ -1,6 +1,6 @@
 ---
 title: "Nasjonalt grunnkart for arealanalyse WMS - årsversjon 2025"
-updated: "2026-01-15"
+updated: "2026-01-16"
 organization: "Statistisk sentralbyrå"
 logo: "https://register.geonorge.no/data/organizations/971526920_SSB_liten.png"
 ---
