@@ -1,5 +1,5 @@
 @startuml
-title Nasjonalt grunnkart for arealanalyse (Testversjon 2) - Objekttyper
+title Nasjonalt grunnkart for arealanalyse WMS - årsversjon 2025 - Objekttyper
 
 skinparam backgroundColor #F5F5F5
 skinparam shadowing false
